@@ -16,10 +16,10 @@
 ## 🙋‍♂️ About me
 
 - Kyunghee Univ. (Department of Electronics Engineering)
-- contact: <a href="mailto:mywonhyuni@gmail.com">mywonhyuni@gmail.com</a>
-- develog: [https://velog.io/@mywonhyuni](https://velog.io/@mywonhyuni)
-- resume: [resume](https://www.notion.so/whkwon/ac04d8280aa34e5b9ba74a85bb1eb70d?pvs=4)
-- portfolio: [professinal](https://www.notion.so/abd6c723df5e48b8a628314e85dfb86f?pvs=4), [personal](https://www.notion.so/40fa228bc3b74ee28732345f21fc24c8?pvs=4)
+- contact: <a href="mailto:xotndi0808@gmail.com">xotndi0808@gmail.com</a>
+- develog: [https://velog.io/@jungtaesu](https://velog.io/@jungtaesu)
+- resume: [resume](https://www.notion.so/2a67426028284004ba7776c4ce6e4185)
+- portfolio: [professinal](https://www.notion.so/3345b4344d394336b3efd91fde4150d9?v=ec40ea2133b54362a37e7bea73e5378b), [personal](https://www.notion.so/a88792eb865146bfa17323a82b58047e?v=20bdebdc88224ca3be9a9b3d4ea9a328)
 
 </br>
 
