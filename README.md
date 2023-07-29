@@ -37,7 +37,7 @@
 
 ### 📌 Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.JS-%23404d59.svg?style=plastic&logo=nest&logoColor=%#E0234E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.JS-%E0234E.svg?style=plastic&logo=NestJS&logoColor=%#E0234E)
 </br>
 
 ### 📌 DB & Cloud Hosting
