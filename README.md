@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About me
 
-- Kyunghee Univ. (Department of Electronics Engineering)
+- ChungBuk Univ. (Department of Business Administration)
 - contact: <a href="mailto:xotndi0808@gmail.com">xotndi0808@gmail.com</a>
 - develog: [https://velog.io/@jungtaesu](https://velog.io/@jungtaesu)
 - resume: [resume](https://www.notion.so/2a67426028284004ba7776c4ce6e4185)
@@ -56,10 +56,5 @@
 ### 2022.05 ~
 
 - Keypair
-  - Frontend Engineer in charge of UX/UI for the KeyWallet Touch app.
-
+  - BlockChain Platform Engineer in charge of Deployment/Maintenance for the IDO and DEX application of Keypair.
 </br>
-
-### 2017.08 ~ 2019.09
-
-- LG Display Co., Ltd.
