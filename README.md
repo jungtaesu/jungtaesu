@@ -13,7 +13,7 @@
 - contact: <a href="mailto:xotndi0808@gmail.com">xotndi0808@gmail.com</a>
 - develog: [https://velog.io/@jungtaesu](https://velog.io/@jungtaesu)
 - resume: [resume](https://www.notion.so/2a67426028284004ba7776c4ce6e4185)
-- portfolio: [professinal](https://www.notion.so/3345b4344d394336b3efd91fde4150d9?v=ec40ea2133b54362a37e7bea73e5378b), [personal](https://www.notion.so/a88792eb865146bfa17323a82b58047e?v=20bdebdc88224ca3be9a9b3d4ea9a328)
+- portfolio: [professinal](https://www.notion.so/portfolio-rn/15f9bd185f7480d8a5b0e7d4643f696f?v=15f9bd185f748169b956000ccee3db21), [personal](https://www.notion.so/a88792eb865146bfa17323a82b58047e?v=20bdebdc88224ca3be9a9b3d4ea9a328)
 
 </br>
 
