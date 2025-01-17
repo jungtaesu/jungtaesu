@@ -47,8 +47,15 @@
 
 ## 📝 Work Exprience
 
-### 2022.05 ~
+### 2023.10 ~
+
+- Byte Company
+  - Frontend Engineer in charge of Deployment/Maintenance/Development for the News application of Byte Company.
+ </br>
+
+### 2022.05 ~ 2023.09
 
 - Keypair
   - BlockChain Platform Engineer in charge of Deployment/Maintenance for the IDO and DEX application of Keypair.
 </br>
+
